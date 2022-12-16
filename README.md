@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Profile 🙂. 
-### My name is Kanan and my pronouns are he/him 👨🏻. Nice to see you here!
+### My name is Kanan and pronouns are he/him 👨🏻. Nice to see you here!
 ### There are a couple of things about me ⚡:
 
 - I’m currently learning Python 🌱👨🏻‍💻 and trying to work on small projects 🔭. 
