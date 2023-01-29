@@ -1,7 +1,6 @@
 ### Welcome to my GitHub Profile 🙂. My name is Kanan with pronouns he/him 👨🏻. Nice to meet you!
 ### There are a couple of things here to mention⚡:
 
-- The profile picture represents an example of strong link with the a saxophone sound effect of electronic music produced in my brain.
 - I currently stopped learning Python 👨🏻‍💻 and would trying to come back as possible as to work with small projects 🔭.
 - Open to collaborate with like-minded people 👯 and share ideas to help each other for future progression 🌱.
 
