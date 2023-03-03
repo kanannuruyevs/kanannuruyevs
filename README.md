@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile 🙂. My name is Kanan with pronouns he/him 👨🏻. Nice to meet you!
+### Welcome to my GitHub Profile 🙂. Nice to meet you!
 ### There are a couple of things here to mention⚡:
 
 - I currently stopped learning Python 👨🏻‍💻 and would trying to come back as possible as to work with small projects 🔭.
