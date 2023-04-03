@@ -2,8 +2,7 @@
 ### There are a couple of things here to mention about me ⚡:
 
 - Currently stopped learning Python 👨🏻‍💻 and might be trying to come back as soon as possible to begin with small projects 🔭.
-- Interested in exploring software that can increase productivity by customizing the user experience of operating systems and browsers with both functional and visually appealing designs.
-- Listening to good music 🎶 and watching the content philosophy and ASMR helps me relax during stressful times, especially when I'm exhausted by doing research.
+- Interested in exploring software 💻 that can increase productivity by customizing the user experience of operating systems and browsers with both functional and visually appealing designs 🌟.
 - Open to collaborate with like-minded people 👯 and share ideas to help each other for future progression 🌱.
 
 ### Please feel free to contact me to ask about what I'm currently doing and to discuss how we may collaborate on new creative projects. Reach me out:
