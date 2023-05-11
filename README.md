@@ -1,8 +1,8 @@
 ### Welcome to my GitHub Profile 🙂. Nice to meet you!
 ### There are a couple of things here to mention about me ⚡:
 
-- Currently stopped learning Python 👨🏻‍💻 and might be trying to come back as soon as possible to begin with small projects 🔭.
-- Interested in exploring different kinds of software, including apps and extensions💻.
+- Currently stopped learning programming with Python 👨🏻‍💻 and might be trying to come back as soon as possible to begin with small projects 🔭.
+- Interested in exploring different kinds of software, including apps and extensions 💻.
 - Open to collaborate with like-minded people 👯 and share ideas to help each other for future progression 🌱.
 
 ### Please feel free to contact me to ask about what I'm currently doing and to discuss how we may collaborate on new creative projects. Reach me out:
