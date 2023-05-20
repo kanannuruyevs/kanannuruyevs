@@ -11,11 +11,11 @@
 - [First Contributions](https://github.com/firstcontributions/first-contributions/pull/59782) - Fix grammar mistakes in Azerbaijani translation.
 
 ### Issues
-- [Furtherance](https://github.com/lakoliu/Furtherance/issues/107) - "Is it normal when I set a Pomodoro Timer, it appears a minute over instead of the time I set?"
-- [Rocketbar](https://github.com/linux-is-awesome/gnome_extension_rocketbar/issues/29) - "Could you add an option to the extension that might prevent to interfere in placement with the others in the status bar?"
+- [Furtherance](https://github.com/lakoliu/Furtherance/issues/107) - "Bug: Pomodoro Timer displays one-minute over the set time". 
+- [Rocketbar](https://github.com/linux-is-awesome/gnome_extension_rocketbar/issues/29) - Suggested to add an option to prevent extension to interfere in placement with the others in the status bar in Ubuntu. 
 - [Keep Awake!](https://github.com/jenspfahl/KeepAwake/issues/36) - Requested support for GNOME 44.
 - [Reco](https://github.com/ryonakano/reco/issues/190) - "Info: runtime org.gnome. Platform branch 42 is end-of-life".
-- [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo/issues/4) - "Is it normal to see the sign in page appears every singe time I open the app?"
+- [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo/issues/4) - "Bug: Sign-in page appears on every app launch". 
 - [YouTube Tabs](https://github.com/Gmanicus/Youtube-Tabs/issues/2) - Reported an issue regarding not having sync and export feature to save the created tabs on the YouTube Subscription Page.
 
 ## Contact Me
