@@ -7,7 +7,7 @@
 
 ## Open Source Contributions
 ### Documentation
-- [Fiber Project Documentation](https://github.com/gofiber/fiber/pull/2413) - Correct grammar errors in Azerbaijani translation.
+- [Fiber](https://github.com/gofiber/fiber/pull/2413) - Correct grammar errors in Azerbaijani translation.
 - [First Contributions](https://github.com/firstcontributions/first-contributions/pull/59782) - Fix grammar mistakes in Azerbaijani translation.
 
 ### Issues
