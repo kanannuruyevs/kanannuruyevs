@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile 🙂. Nice to meet you!
 ### There are a couple of things here to mention about me ⚡:
 
-- Recently returned to learning programming with Python 👨🏻‍💻 and started working on an exciting data visualization project focused on a career path exploration, including MBTI Cognitive Functions 🔭.
+- Recently returned to learning programming with Python 👨🏻‍💻 and started working on a data visualization project focused on a career path exploration, including MBTI Cognitive Functions 🔭. Additionally, I am considering developing my website with using the Django framework and HTML/CSS.
 - Interested in exploring different kinds of software, including apps and extensions 💻.
 - Open to collaborate with like-minded people 👯 and share ideas to help each other for future progression 🌱.
 
