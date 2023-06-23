@@ -6,9 +6,11 @@
 - Open to collaborate with like-minded people 👯 and share ideas to help each other for future progress 🌱.
 
 ## Open Source Contributions
-### Documentation
+
+### Pull Requests
 - [Fiber](https://github.com/gofiber/fiber/pull/2413) - Correct grammar errors in Azerbaijani translation.
 - [First Contributions](https://github.com/firstcontributions/first-contributions/pull/59782) - Fix grammar mistakes in Azerbaijani translation.
+- [Uptime Indicator](https://github.com/Gniourf/Uptime-Indicator/pull/17) - Some changes to the CSS code to allow the extension to regulate the font style that appears in the top bar as the default.
 
 ### Issues
 - [Furtherance](https://github.com/lakoliu/Furtherance/issues/107) - "Bug: Pomodoro Timer displays one-minute over the set time". 
@@ -18,10 +20,7 @@
 - [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo/issues/4) - "Bug: Sign-in page appears on every app launch". 
 - [YouTube Tabs](https://github.com/Gmanicus/Youtube-Tabs/issues/2) - Reported an issue regarding not having sync and export feature to save the created tabs on the YouTube Subscription Page.
 
-### Pull Requests
-- [Uptime Indicator](https://github.com/Gniourf/Uptime-Indicator/pull/17) - Some changes to the CSS code to allow the extension to regulate the font style that appears in the top bar as the default.
-
-## Contact Me
+## Contact
 Please feel free to contact me to ask about what I'm currently doing and to discuss how we may collaborate on new creative projects. Reach me out:
 
 <a href="mailto:kanansnote@gmail.com">
