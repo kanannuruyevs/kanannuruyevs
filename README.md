@@ -1,4 +1,5 @@
-## Welcome to my GitHub Profile 🙂. Nice to meet you!
+## Introduction
+### Welcome to my GitHub Profile 🙂. Nice to meet you!
 ### There are a couple of things here to mention about me ⚡:
 
 - Recently returned to learning programming with Python 👨🏻‍💻 and started working on an exciting [data visualization project](https://github.com/kanansnote/My-Venn-Diagram) focused on a career path exploration, including MBTI Cognitive Functions 🔭. Additionally, I am considering developing my website with using the Django framework and HTML/CSS.
