@@ -37,9 +37,6 @@ Please feel free to contact me to ask about what I'm currently doing and to disc
 <a href="https://join.skype.com/invite/F3ix8zp5tSBy">
   <img src="https://camo.githubusercontent.com/738abde95a3c033b2fbe7a56d2e9242fbdad99124b331d9739d1ad25f379e522/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667" alt="Skype" width="30" height="30" /><img src="https://img.shields.io/badge/Skype-0078d7?style=for-the-badge" alt="Skype" width="70" height="30"></a> 
   &nbsp;
-<a href="https://www.reddit.com/user/RegardlessKarma">
-  <img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" alt="Reddit" width="30" height="30" /><img src="https://img.shields.io/badge/Reddit-ff4400?style=for-the-badge" alt="Reddit" width="75" height="30"></a> 
-  &nbsp;
 <a href="https://gitlab.com/kanansnote">
   <img src="https://camo.githubusercontent.com/92155145d11c0c16b6d804cf10407c691d134283ced40c36ceecfb885b8b655c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667" alt="GitLab" width="30" height="30" /><img src="https://img.shields.io/badge/GitLab-30353e?style=for-the-badge" alt="GitLab" width="75" height="30"></a>
   &nbsp;
