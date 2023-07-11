@@ -50,5 +50,5 @@ Please feel free to contact me to ask about what I'm currently doing and to disc
 ## Statistics
 <div>
 <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" width="469" height="195">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
 </div>
