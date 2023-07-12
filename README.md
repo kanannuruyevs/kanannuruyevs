@@ -49,11 +49,15 @@ Please feel free to contact me to ask about what I'm currently doing and to disc
   <table>
     <tr>
       <th>Stats</th>
-      <th>Top Languages</th>
     </tr>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats" width="469" height="195"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="190"></td>
+    </tr>
+    <tr>
+      <th>Top Languages</th>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" width="469" height="195"></td>
     </tr>
   </table>
 </div>
