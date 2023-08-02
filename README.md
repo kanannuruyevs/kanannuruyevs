@@ -9,7 +9,7 @@ I'm highly interested in exploring different kinds of software, including apps a
 - [My Venn Diagram](https://github.com/kanansnote/My-Venn-Diagram) - the project focuses on a career path exploration, including MBTI Cognitive Functions. That was the main cause for returning to programming stuff after 6 months of delay. 
 - [My Business Calendar](https://github.com/kanansnote/My-Business-Calendar) - the project is designed to provide a personalized calendar experience. Inspired by the idea of creating a business calendar with PowerPoint Slides in accordance of client's specifications working at Upwork.
 - [My Basic Programming Exercises](https://github.com/kanansnote/Basic-Programming-Exercises) - small coding projects for learning and exercising in some programming languages, like Python, C++, Java & HTML.
-- My Flipbook Resume - my personal website with using the Django framework and HTML/CSS. The project is still on development and currently postponed in terms of focusing on small projects first, then resuming back to continue the work soon.
+- My Flipbook Resume - that's going to be my personal website, which I intend to develop by either using the Django or Flask framework alongside HTML & CSS.
 
 ## Open Source Contributions
 
