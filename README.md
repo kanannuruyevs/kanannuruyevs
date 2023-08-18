@@ -1,15 +1,15 @@
 ## Introduction
 ### Welcome to my GitHub Profile 🙂. Nice to meet you ⚡! 
 
-My name is Kanan, and I'm learning programming via ChatGPT & Bing Chat by focusing mainly in Python 👨🏻‍💻 and specializing in Software Development for now 🔭.
+I'm learning programming via ChatGPT & Bing Chat by focusing mainly in Python 👨🏻‍💻 and occasionally, exploring different kinds of software, including apps and extensions with contributing by opening issues and fixing grammar errors in documentation 💻. 
 
-I'm highly interested in exploring different kinds of software, including apps and extensions with contributing by opening issues and fixing grammar errors in documentation 💻. Open to collaborate with like-minded people 👯 and share ideas to help each other for our future progress in dev journey 🌱.
+Open to collaborate with like-minded people 👯 and share ideas to help each other for our future progress in dev journey 🌱.
 
 ## Projects
 - [My Venn Diagram](https://github.com/kanansnote/My-Venn-Diagram) - the project focuses on a career path exploration, including MBTI Cognitive Functions. That was the main cause for returning to programming stuff after 6 months of delay. 
 - [My Business Calendar](https://github.com/kanansnote/My-Business-Calendar) - the project is designed to provide a personalized calendar experience. Inspired by the idea of creating a business calendar with PowerPoint Slides in accordance of client's specifications working at Upwork.
 - [My Basic Programming Exercises](https://github.com/kanansnote/Basic-Programming-Exercises) - small coding projects for learning and exercising in some programming languages, like Python, C++, Java & HTML.
-- [My Flipbook Resume](https://github.com/kanansnote/My-Flipbook-Resume) - that's going to be my personal website, which I intend to develop by  using Flask framework alongside HTML/CSS and JavaScript.
+- [My Flipbook Resume](https://github.com/kanansnote/My-Flipbook-Resume) - that's going to be my personal website, which I intend to develop by using Flask framework alongside HTML/CSS and JavaScript.
 
 ## Open Source Contributions
 
@@ -26,7 +26,7 @@ Here is a selection of some favorite contributed projects with their associated 
 | [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo) | "Bug: Sign-in page appears on every app launch" [#4](https://github.com/patrick330602/electron-microsoft-todo/issues/4).                                           | Issue         |                                      |
 
 ## Contact
-Please feel free to contact me to ask about what I'm currently doing and to discuss how we may collaborate on new creative projects:
+Please feel free to ask me about what I'm currently doing and to discuss how we may collaborate on new creative projects:
 
 <div>
 <a href="mailto:kanansnote@gmail.com">
