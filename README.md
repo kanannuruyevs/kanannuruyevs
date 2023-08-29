@@ -41,10 +41,21 @@ Open to collaborate with like-minded people 👯 and share ideas to help each ot
 <div>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats" width="469" height="195"></td>
+	    <td>
+        <a href="https://github.com/kanansnote">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanansnote&theme=dark&line_height=20" alt="Current Streak" width="469" height="195"/>
+        </a>
+	    </td>
+	  </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats" width="469" height="195">
+      </td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" width="469" height="195"></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" width="469" height="195">
+      </td>
     </tr>
   </table>
 </div>
