@@ -1,6 +1,6 @@
 ## Introduction
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=6392FF&size=24&width=700&height=50&lines=Welcome+To+Kanan+N's+GitHub+Profile+🙂+!;+Nice+to+Meet+You+⚡!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=6392FF&size=36&width=700&height=75&lines=Welcome+To+Kanan+N's+GitHub+Profile+🙂+!;+Nice+to+Meet+You+⚡!)](https://git.io/typing-svg)
 
 ## Summary
 
