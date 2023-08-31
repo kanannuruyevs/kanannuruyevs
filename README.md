@@ -4,18 +4,40 @@
 
 ## Summary
 
-I'm learning programming via ChatGPT & Bing Chat by focusing mainly in Python 👨🏻‍💻 and occasionally JavaScript, HTML & CSS. Also, I'm inclined to explore different kinds of software, including apps and extensions with contributing by opening issues and fixing grammar errors in documentation 💻. 
+I'm learning programming via ChatGPT & Bing Chat by focusing mainly in Python 👨🏻‍💻 and occasionally JavaScript, HTML & CSS. Also, I'm inclined to explore different kinds of software, including apps and extensions by contributing with opening issues and fixing grammar errors in documentation 💻. 
 
-## Proficiency
+## Programming Proficiency
 
 My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅:
 
-<div class="Programming Languages">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=py" width="20" height="20" align="center"/> Python</td>
+    <td>Beginner</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center"/> JavaScript</td>
+    <td>Beginner</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" width="20" height="20" align="center"/> HTML</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=css" width="20" height="20" align="center"/> CSS</td>
+    <td>Beginner</td>
+  </tr>
+</table>
+
+## Tools
+| IDE & Version Control | OS | Web Browsers
+| :----: | :----: | :----: |
+![PyCharm](https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=black) | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white") | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Debian 12](https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 ## Projects
 - [My Venn Diagram](https://github.com/kanansnote/My-Venn-Diagram) - the project focuses on a career path exploration, including MBTI Cognitive Functions. That was the main cause for returning to programming stuff after 6 months of delay. 
@@ -63,22 +85,25 @@ Here is a selection of some favorite contributed projects with their associated 
 ## Contact
 Open to collaborate with like-minded people 👯 and share ideas to help each other for our future progress in dev journey 🌱:
 
-<div class="Social Links">
-<a href="mailto:kanansnote@gmail.com">
-  <img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" width="30" height="30" /><img src="https://img.shields.io/badge/Email-008080?style=for-the-badge" alt="Email" width="70" height="30"></a> 
-  &nbsp;
-<a href="https://join.skype.com/invite/F3ix8zp5tSBy">
-  <img src="https://camo.githubusercontent.com/738abde95a3c033b2fbe7a56d2e9242fbdad99124b331d9739d1ad25f379e522/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667" alt="Skype" width="30" height="30" /><img src="https://img.shields.io/badge/Skype-0078d7?style=for-the-badge" alt="Skype" width="70" height="30"></a> 
-  &nbsp;
-<a href="https://t.me/kanansnote">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d5f234d02358386b6b0739339c6ba0a881e379fd/images/svg/telegram.svg" alt="Telegram" width="30" height="30" /><img src="https://img.shields.io/badge/Telegram-37aee2?style=for-the-badge" alt="Telegram" width="95" height="30"></a>
-</div>
-
-## Additional Links
-<div class="Additional Info">
-<a href="https://gitlab.com/kanansnote">
-  <img src="https://camo.githubusercontent.com/92155145d11c0c16b6d804cf10407c691d134283ced40c36ceecfb885b8b655c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667" alt="GitLab" width="30" height="30" /><img src="https://img.shields.io/badge/GitLab-ffffff?style=for-the-badge" alt="GitLab" width="75" height="30"></a>
-  &nbsp;
-<a href="https://www.upwork.com/freelancers/~01436abedec5f3ec3c">
-  <img src="https://camo.githubusercontent.com/af4a1159b9b8cc303de5ab4832ba40ed21153795a25d61dfdb633567281e8550/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7570776f726b2e737667" alt="Upwork" width="30" height="30" /><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge" alt="Upwork" width="85" height="30"></a>
-</div>
+<table>
+	<tr>
+		<th>Main Links</th>
+		<td>
+			<a href="mailto:kanansnote@gmail.com">
+  		<img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" width="30" height="30" /><img src="https://img.shields.io/badge/Email-008080?style=for-the-badge" alt="Email" width="70" height="30"></a>
+			<a href="https://join.skype.com/invite/F3ix8zp5tSBy">
+  		<img src="https://camo.githubusercontent.com/738abde95a3c033b2fbe7a56d2e9242fbdad99124b331d9739d1ad25f379e522/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736b7970652e737667" alt="Skype" width="30" height="30" /><img src="https://img.shields.io/badge/Skype-0078d7?style=for-the-badge" alt="Skype" width="70" height="30"></a> 
+			<a href="https://t.me/kanansnote">
+  		<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d5f234d02358386b6b0739339c6ba0a881e379fd/images/svg/telegram.svg" alt="Telegram" width="30" height="30" /><img src="https://img.shields.io/badge/Telegram-37aee2?style=for-the-badge" alt="Telegram" width="95" height="30"></a>
+  	</td>
+  </tr>
+  <tr>
+  	<th>Additional Links</th>
+  	<td align="center">
+  		<a href="https://gitlab.com/kanansnote">
+  		<img src="https://camo.githubusercontent.com/92155145d11c0c16b6d804cf10407c691d134283ced40c36ceecfb885b8b655c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667" alt="GitLab" width="30" height="30" /><img src="https://img.shields.io/badge/GitLab-ffffff?style=for-the-badge" alt="GitLab" width="75" height="30"></a>
+			<a href="https://www.upwork.com/freelancers/~01436abedec5f3ec3c">
+  		<img src="https://camo.githubusercontent.com/af4a1159b9b8cc303de5ab4832ba40ed21153795a25d61dfdb633567281e8550/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7570776f726b2e737667" alt="Upwork" width="30" height="30" /><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge" alt="Upwork" width="85" height="30"></a>
+		</td>
+	</tr>
+</table>
