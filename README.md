@@ -88,7 +88,7 @@ Open to collaborate with like-minded people 👯 and share ideas to help each ot
 <table>
 	<tr>
 		<th>Main Links</th>
-		<td>
+		<td align="center">
 			<a href="mailto:kanansnote@gmail.com">
 				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 			<a href="https://join.skype.com/invite/F3ix8zp5tSBy">
