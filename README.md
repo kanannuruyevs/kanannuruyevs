@@ -11,24 +11,18 @@ I'm learning programming via ChatGPT & Bing Chat by focusing mainly in Python ðŸ
 My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch ðŸ˜…:
 
 <table>
-  <tr>
-    <th>Language</th>
-    <th>Proficiency</th>
-  </tr>
-  <tr>
+  <tr align="center">
+		<th>Languages</th>
     <td><img src="https://skillicons.dev/icons?i=py" width="20" height="20" align="center"/> Python</td>
-    <td>Intermediate</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center"/> JavaScript</td>
-    <td>Beginner</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="20" height="20" align="center"/> HTML</td>
-    <td>Intermediate</td>
-  </tr>
-  <tr>
+		<td><img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center"/> JavaScript</td>
+		<td><img src="https://skillicons.dev/icons?i=html" width="20" height="20" align="center"/> HTML</td>
     <td><img src="https://skillicons.dev/icons?i=css" width="20" height="20" align="center"/> CSS</td>
+  </tr>
+  <tr align="center">
+		<th>Proficiency</th>
+		<td>Intermediate</td>
+    <td>Beginner</td>
+    <td>Intermediate</td>
     <td>Beginner</td>
   </tr>
 </table>
