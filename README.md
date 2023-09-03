@@ -13,10 +13,10 @@ My programming proficiency is currently at a basic level. I am capable of compre
 <table>
   <tr align="center">
 		<th>Languages</th>
-    <td><img src="https://skillicons.dev/icons?i=py" width="20" height="20" align="center"/> Python</td>
-		<td><img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center"/> JavaScript</td>
-		<td><img src="https://skillicons.dev/icons?i=html" width="20" height="20" align="center"/> HTML</td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="20" height="20" align="center"/> CSS</td>
+    <td><img src="https://img.shields.io/badge/Python-%23009ADD.svg?style=flat&logo=python&logoColor=yellow" align="center"/></td>
+		<td><img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" align="center"/></td>
+		<td><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" align="center"/></td>
+    <td><img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" align="center"/></td>
   </tr>
   <tr align="center">
 		<th>Proficiency</th>
