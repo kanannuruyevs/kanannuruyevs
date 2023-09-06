@@ -40,8 +40,6 @@ My programming proficiency is currently at a basic level. I am capable of compre
 | [My Venn Diagram](https://github.com/kanansnote/My-Venn-Diagram)                            | The project focuses on a career path exploration, including MBTI Cognitive Functions. That was the main cause for returning to programming stuff after 6 months of delay.                                      |
 | [My Business Calendar](https://github.com/kanansnote/My-Business-Calendar)                  | The project is designed to provide a personalized calendar experience. Inspired by the idea of creating a business calendar with PowerPoint Slides in accordance of client's specifications working at Upwork. |
 | [My Basic Programming Exercises](https://github.com/kanansnote/Basic-Programming-Exercises) | Small coding projects for learning and exercising in some programming languages, like Python, C++, Java & HTML.                                                                                                |
-| [My Flipbook Resume](https://github.com/kanansnote/My-Flipbook-Resume)                      | That's going to be my personal website, which I intend to develop by using Flask framework alongside HTML/CSS and JavaScript.                                                                                  |
-
 ## Open Source Contributions
 
 Here is a selection of some favorite contributed projects with their associated pull requests and issues:
