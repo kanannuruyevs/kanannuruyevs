@@ -8,25 +8,13 @@ I'm learning programming via Mimo by focusing mainly in Python & JavaScript 👨
 
 ## Programming Proficiency
 
-My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅:
+My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅. Considered languages:
 
 <div class="ProgProficiency">
-  <table>
-    <tr align="center">
-      <th>Languages</th>
-        <td><img src="https://img.shields.io/badge/Python-%23009ADD.svg?style=flat&logo=python&logoColor=yellow" align="center"/></td>
-		<td><img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" align="center"/></td>
-		<td><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" align="center"/></td>
-        <td><img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" align="center"/></td>
-    </tr>
-    <tr align="center">
-      <th>Proficiency</th>
-		<td>Intermediate</td>
-        <td>Beginner</td>
-        <td>Intermediate</td>
-        <td>Beginner</td>
-    </tr>
-  </table>
+	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+	<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+	<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 ## Tools
