@@ -4,7 +4,7 @@
 
 ## Summary
 
-I'm learning programming via Mimo by focusing mainly in Python & JavaScript 👨🏻‍💻 and occasionally HTML & CSS. Also, I'm inclined to explore different kinds of software, including apps and extensions by contributing with opening issues and fixing grammar errors in documentation 💻. Most of the time, ChatGPT & Bing Chat might help with my programming requests.
+I'm learning programming via online learning platform "[Mimo](https://mimo.org/)" by focusing mainly in ``Python`` & ``JavaScript`` 👨🏻‍💻 and occasionally ``HTML`` & ``CSS``. Also, I'm inclined to explore different kinds of software, including **apps** and **extensions** by contributing with opening issues and fixing grammar errors in **documentation** 💻. Most of the time, **ChatGPT** & **Bing Chat** might help with my programming requests.
 
 ## Programming Proficiency
 
