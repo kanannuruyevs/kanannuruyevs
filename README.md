@@ -2,6 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=6392FF&size=36&width=1000&height=75&lines=Welcome+To+Kanan+N's+GitHub+Profile+🙂+!;+Nice+to+Meet+You+⚡!)](https://git.io/typing-svg)
 
+## Table of Contents
+
+- [Summary](https://github.com/kanansnote/kanansnote#summary)
+- [Programming Proficiency](https://github.com/kanansnote/kanansnote#programming-proficiency)
+- [Working Tools](https://github.com/kanansnote/kanansnote#working-tools)
+- [Personal Projects](https://github.com/kanansnote/kanansnote#personal-projects)
+- [Open Source Contributions](https://github.com/kanansnote/kanansnote#open-source-contributions)
+- [GitHub Statistics](https://github.com/kanansnote/kanansnote#github-statistics)
+- [Contact Details](https://github.com/kanansnote/kanansnote#contact-details)
+
 ## Summary
 
 I'm learning programming via online learning platform "[Mimo](https://mimo.org/)" by focusing mainly in ``Python`` & ``JavaScript`` 👨🏻‍💻 and occasionally ``HTML`` & ``CSS``. Also, I'm inclined to explore different kinds of software, including **apps** and **extensions** by contributing with opening issues and fixing grammar errors in **documentation** 💻. Most of the time, **ChatGPT** & **Bing Chat** might help with my programming requests.
@@ -11,19 +21,31 @@ I'm learning programming via online learning platform "[Mimo](https://mimo.org/)
 My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅. Considered languages:
 
 <div class="ProgProficiency">
-	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-	<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <table>
+	<tr> 
+	  <th>Programming Languages</th>
+	  <th>Markup Languages</th>
+	</tr>
+	<tr>
+	  <td>
+		<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+	  </td>
+	  <td>
+		<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+		<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+	  </td>
+	</tr>
+  </table>
 </div>
 
-## Tools
+## Working Tools
 
 |                                                                                                   IDE & Version Control                                                                                                   |                                                                                                             OS                                                                                                              |                                                                                                        Web Browsers                                                                                                        |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![PyCharm](https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white") ![Debian 12](https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) |
 
-## Projects
+## Personal Projects
 
 | Name                                                                                        | Description                                                                                                                                                                                                    |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,8 +67,8 @@ Here is a selection of some favorite contributed projects with their associated 
 | [Reco](https://github.com/ryonakano/reco)                                            | "Info: runtime org.gnome. Platform branch 42 is end-of-life" [#190](https://github.com/ryonakano/reco/issues/190).                                                            | Issue        |                                                           |
 | [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo) | "Bug: Sign-in page appears on every app launch" [#4](https://github.com/patrick330602/electron-microsoft-todo/issues/4).                                                      | Issue        |                                      |
 
-## Statistics
-<div class="Statistics">
+## GitHub Statistics
+<div class="GitHubStatistics">
   <table>
     <tr>
       <td>
@@ -68,10 +90,10 @@ Here is a selection of some favorite contributed projects with their associated 
   </table>
 </div>
 
-## Contact
+## Contact Details
 Open to collaborate with like-minded people 👯 and share ideas to help each other for our future progress in dev journey 🌱:
 
-<div class="Contact Info">
+<div class="ContactDetails">
   <table>
     <tr>
 	  <th>Main Links</th>
