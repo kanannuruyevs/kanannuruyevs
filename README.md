@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-- [Summary](https://github.com/kanansnote/kanansnote#summary)
-- [Programming Proficiency](https://github.com/kanansnote/kanansnote#programming-proficiency)
-- [Working Tools](https://github.com/kanansnote/kanansnote#working-tools)
-- [Personal Projects](https://github.com/kanansnote/kanansnote#personal-projects)
-- [Open Source Contributions](https://github.com/kanansnote/kanansnote#open-source-contributions)
-- [GitHub Statistics](https://github.com/kanansnote/kanansnote#github-statistics)
-- [Contact Details](https://github.com/kanansnote/kanansnote#contact-details)
+- [Summary](https://github.com/kanansnote#summary)
+- [Programming Proficiency](https://github.com/kanansnote#programming-proficiency)
+- [Working Tools](https://github.com/kanansnote#working-tools)
+- [Personal Projects](https://github.com/kanansnote#personal-projects)
+- [Open Source Contributions](https://github.com/kanansnote#open-source-contributions)
+- [GitHub Statistics](https://github.com/kanansnote#github-statistics)
+- [Contact Details](https://github.com/kanansnote#contact-details)
 
 ## Summary
 
