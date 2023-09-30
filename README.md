@@ -27,11 +27,11 @@ My programming proficiency is currently at a basic level. I am capable of compre
 	  <th>Markup Languages</th>
 	</tr>
 	<tr>
-	  <td>
+	  <td align="center">
 		<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	  </td>
-	  <td>
+	  <td align="center">
 		<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 	  </td>
