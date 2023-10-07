@@ -5,8 +5,7 @@
 ## Table of Contents
 
 - [Summary](https://github.com/kanansnote#summary)
-- [Programming Proficiency](https://github.com/kanansnote#programming-proficiency)
-- [Working Tools](https://github.com/kanansnote#working-tools)
+- [Working Skills & Tools](https://github.com/kanansnote#working-skills--tools)
 - [Personal Projects](https://github.com/kanansnote#personal-projects)
 - [Open Source Contributions](https://github.com/kanansnote#open-source-contributions)
 - [GitHub Statistics](https://github.com/kanansnote#github-statistics)
@@ -16,34 +15,43 @@
 
 I'm learning programming via online learning platform "[Mimo](https://mimo.org/)" by focusing mainly in ``Python`` & ``JavaScript`` 👨🏻‍💻 and occasionally ``HTML`` & ``CSS``. Also, I'm inclined to explore different kinds of software, including **apps** and **extensions** by contributing with opening issues and fixing grammar errors in **documentation** 💻. Most of the time, **ChatGPT** & **Bing Chat** might help with my programming requests.
 
-## Programming Proficiency
+## Working Skills & Tools
 
-My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅. Considered languages:
-
-<div class="ProgProficiency">
+<div class="SkillsAndTools">
   <table>
-	<tr> 
-	  <th>Programming Languages</th>
-	  <th>Markup Languages</th>
-	</tr>
-	<tr>
-	  <td align="center">
-		<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	  </td>
-	  <td align="center">
-		<img alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-		<img alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-	  </td>
-	</tr>
+		<tr> 
+	  	<th>Programming Languages</th>
+	  	<th>Markup Languages</th>
+			<th>IDE & Version Control</th>
+			<th>Operating Systems</th>
+			<th>Web Browsers</th>
+		</tr>
+		<tr>
+	  	<td align="center">
+				<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+				<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+	  	</td>
+	  	<td align="center">
+				<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+				<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+	  	</td>
+			<td align="center">
+				<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>
+				<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+	  	</td>
+			<td align="center">
+				<img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+				<img alt="Debian 12" src="https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+	  	</td>
+			<td align="center">
+				<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+				<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-Edge&logoColor=white"/>
+	  	</td>
+		</tr>
   </table>
 </div>
 
-## Working Tools
-
-|                                                                                                   IDE & Version Control                                                                                                   |                                                                                                             OS                                                                                                              |                                                                                                        Web Browsers                                                                                                        |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![PyCharm](https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white") ![Debian 12](https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) |
+My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅.
 
 ## Personal Projects
 
@@ -71,12 +79,12 @@ Here is a selection of some favorite contributed projects with their associated 
 <div class="GitHubStatistics">
   <table>
     <tr>
-      <td>
+     	<td>
         <a href="https://github.com/kanansnote">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanansnote&theme=dark&line_height=20" alt="Current Streak" width="469" height="195"/>
         </a>
-	  </td>
-	</tr>
+	  	</td>
+		</tr>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats" width="469" height="195">
@@ -96,8 +104,9 @@ Open to collaborate with like-minded people 👯 and share ideas to help each ot
 <div class="ContactDetails">
   <table>
     <tr>
-	  <th>Main Links</th>
-	  <th>Additional Links</th>
+	  	<th>Main Links</th>
+	  	<th>Additional Links</th>
+			<th>Personal Website</th>
     </tr>
     <tr>
       <td align="center">
@@ -110,12 +119,16 @@ Open to collaborate with like-minded people 👯 and share ideas to help each ot
       </td>
   	  <td align="center">
         <a href="https://gitlab.com/kanansnote">
-	      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+	      	<img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
         <a href="https://www.upwork.com/freelancers/~01436abedec5f3ec3c">
-		  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"></a>
-	  </td>
+		  		<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"></a>
+			</td>
+			<td align="center">
+        <a href="https://kanansnote.github.io">
+	      <img src="https://img.shields.io/badge/🕸️_kanansnote-%23123F6D.svg?style=for-the-badge&logo=web&logoColor=%121C2B" alt="Personal Website"></a>
+	  	</td>
     </tr>
   </table>
 </div>
 
-### [🔝 Back to Introduction](https://github.com/kanansnote#introduction)
+### [🔝 Back to Introduction 🔝](https://github.com/kanansnote#introduction)
