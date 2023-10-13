@@ -55,12 +55,20 @@ My programming proficiency is currently at a basic level. I am capable of compre
 
 ## Personal Projects
 
-| Name                                                                                        | Description                                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [My Venn Diagram](https://github.com/kanansnote/My-Venn-Diagram)                            | The project focuses on a career path exploration, including MBTI Cognitive Functions. That was the main cause for returning to programming stuff after 6 months of delay.                                      |
-| [My Business Calendar](https://github.com/kanansnote/My-Business-Calendar)                  | The project is designed to provide a personalized calendar experience. Inspired by the idea of creating a business calendar with PowerPoint Slides in accordance of client's specifications working at Upwork. |
-| [My Basic Programming Exercises](https://github.com/kanansnote/Basic-Programming-Exercises) | Small coding projects for learning and exercising in some programming & markup languages. It includes Python, JavaScript, C++, Java, HTML and CSS.                                                             |
-| [My Personal Website](https://github.com/kanansnote/kanansnote.github.io)                   | Developing my personal website using GitHub Pages, with a focus on frontend development using HTML, CSS and JavaScript.                                                                                        |                                                                                                                                        
+<div class="personalProjects">
+  <a href="https://github.com/kanansnote/My-Venn-Diagram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Venn-Diagram&theme=dark"/>
+  </a>
+  <a href="https://github.com/kanansnote/My-Business-Calendar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Business-Calendar&theme=dark"/>
+  </a>
+  <a href="https://github.com/kanansnote/My-Basic-Programming-Exercises">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Basic-Programming-Exercises&theme=dark"/>
+  </a>
+	<a href="https://github.com/kanansnote/kanansnote.github.io">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=kanansnote.github.io&theme=dark"/>
+	</a>
+</div>
 
 ## Open Source Contributions
 
