@@ -57,14 +57,12 @@ My programming proficiency is currently at a basic level. I am capable of compre
 
 <div class="personalProjects">
   <a href="https://github.com/kanansnote/My-Venn-Diagram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Venn-Diagram&theme=dark"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Venn-Diagram&theme=dark"/></a>
   <a href="https://github.com/kanansnote/My-Business-Calendar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Business-Calendar&theme=dark"/>
   </a>
   <a href="https://github.com/kanansnote/My-Basic-Programming-Exercises">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Basic-Programming-Exercises&theme=dark"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=My-Basic-Programming-Exercises&theme=dark"/></a>
 	<a href="https://github.com/kanansnote/kanansnote.github.io">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=kanansnote.github.io&theme=dark"/>
 	</a>
