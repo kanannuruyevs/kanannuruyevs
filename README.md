@@ -2,17 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=6392FF&size=36&width=1000&height=75&lines=Welcome+To+Kanan+N's+GitHub+Profile+🙂+!;+Nice+to+Meet+You+⚡!)](https://git.io/typing-svg)
 
-## Table of Contents
-
-- [Summary](https://github.com/kanansnote#summary)
-- [Working Skills & Tools](https://github.com/kanansnote#working-skills--tools)
-- [Personal Projects](https://github.com/kanansnote#personal-projects)
-- [Open Source Contributions](https://github.com/kanansnote#open-source-contributions)
-- [GitHub Statistics](https://github.com/kanansnote#github-statistics)
-- [Contact Details](https://github.com/kanansnote#contact-details)
-
-## Summary
-
 I'm learning programming via online learning platform "[Mimo](https://mimo.org/)" by focusing mainly in ``Python`` & ``JavaScript`` 👨🏻‍💻 and occasionally ``HTML`` & ``CSS``. Also, I'm inclined to explore different kinds of software, including **apps** and **extensions** by contributing with opening issues and fixing grammar errors in **documentation** 💻. Most of the time, **ChatGPT** & **Bing Chat** might help with my programming requests.
 
 ## Working Skills & Tools
@@ -67,20 +56,6 @@ My programming proficiency is currently at a basic level. I am capable of compre
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanansnote&repo=kanansnote.github.io&theme=dark"/>
   </a>
 </div>
-
-## Open Source Contributions
-
-Here is a selection of some favorite contributed projects with their associated pull requests and issues:
-
-| Project                                                                              | Description                                                                                                                                                                   | Type         |
-|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [Fiber](https://github.com/gofiber/fiber)                                            | Correct grammar errors in Azerbaijani translation [#2413](https://github.com/gofiber/fiber/pull/2413).                                                                        | Pull Request |
-| [First Contributions](https://github.com/firstcontributions/first-contributions)     | Fix grammar mistakes in Azerbaijani translation [#59782](https://github.com/firstcontributions/first-contributions/pull/59782).                                               | Pull Request |
-| [Furtherance](https://github.com/lakoliu/Furtherance)                                | "Bug: Pomodoro Timer displays one-minute over the set time" [#107](https://github.com/lakoliu/Furtherance/issues/107).                                                        | Issue        |                                                     |
-| [Rocketbar](https://github.com/linux-is-awesome/gnome_extension_rocketbar)           | Suggested to add an option to prevent interference in placement with others in the status bar [#29](https://github.com/linux-is-awesome/gnome_extension_rocketbar/issues/29). | Issue        |                              |
-| [Keep Awake!](https://github.com/jenspfahl/KeepAwake)                                | Requested support for GNOME 44 [#36](https://github.com/jenspfahl/KeepAwake/issues/36).                                                                                       | Issue        |                                                        |
-| [Reco](https://github.com/ryonakano/reco)                                            | "Info: runtime org.gnome. Platform branch 42 is end-of-life" [#190](https://github.com/ryonakano/reco/issues/190).                                                            | Issue        |                                                           |
-| [Electron Microsoft To Do](https://github.com/patrick330602/electron-microsoft-todo) | "Bug: Sign-in page appears on every app launch" [#4](https://github.com/patrick330602/electron-microsoft-todo/issues/4).                                                      | Issue        |                                      |
 
 ## GitHub Statistics
 <div class="GitHubStatistics">
@@ -139,5 +114,3 @@ Open to collaborate with like-minded people 👯 and share ideas to help each ot
     </tr>
   </table>
 </div>
-
-### [🔝 Back to Introduction 🔝](https://github.com/kanansnote#introduction)
