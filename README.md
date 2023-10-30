@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=6392FF&size=36&width=1000&height=75&lines=Welcome+To+Kanan+N's+GitHub+Profile+🙂+!;+Nice+to+Meet+You+⚡!)](https://git.io/typing-svg)
 
-I'm learning programming via online learning platform "[Mimo](https://mimo.org/)" by focusing mainly in ``Python`` & ``JavaScript`` 👨🏻‍💻 and occasionally ``HTML`` & ``CSS``. Also, I'm inclined to explore different kinds of software, including **apps** and **extensions** by contributing with opening issues and fixing grammar errors in **documentation** 💻. Most of the time, **ChatGPT** & **Bing Chat** might help with my programming requests.
+I'm a self-taught developer, primarily focusing on ``Python``, ``JavaScript``, ``HTML``, and ``CSS``. While my programming proficiency is currently at a basic level and I face challenges when writing code from scratch, I can comprehend programming structures and implement necessary code with the help of ``ChatGPT`` & ``Bing Chat``.
+
+Also, I have an interest in exploring various types of software and contribute by opening issues and fixing grammar errors in documentation.
 
 ## Working Skills & Tools
 
-<div class="SkillsAndTools">
+<div class="skillsAndTools">
   <table>
 	<tr> 
 		<th>Programming Languages</th>
@@ -40,9 +42,7 @@ I'm learning programming via online learning platform "[Mimo](https://mimo.org/)
   </table>
 </div>
 
-My programming proficiency is currently at a basic level. I am capable of comprehending programming structures and implementing necessary code. However, I still encounter challenges when it comes to writing code from scratch 😅.
-
-## Personal Projects
+## Personal Projects 
 
 <div class="personalProjects">
   <a href="https://github.com/kanansnote/My-Venn-Diagram">
@@ -58,7 +58,8 @@ My programming proficiency is currently at a basic level. I am capable of compre
 </div>
 
 ## GitHub Statistics
-<div class="GitHubStatistics">
+
+<div class="githubStatistics">
   <table>
     <tr>
 	  <td>
@@ -83,7 +84,7 @@ My programming proficiency is currently at a basic level. I am capable of compre
 ## Contact Details
 Open to collaborate with like-minded people 👯 and share ideas to help each other for our future progress in dev journey 🌱:
 
-<div class="ContactDetails">
+<div class="contactDetails">
   <table>
     <tr>
 	  <th>Main Links</th>
