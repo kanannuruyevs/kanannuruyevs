@@ -6,42 +6,6 @@ I'm a self-taught developer, primarily focusing on ``Python``, ``JavaScript``, `
 
 Also, I have an interest in exploring various types of software and contribute by opening issues and fixing grammar errors in documentation.
 
-## Working Skills & Tools
-
-<div class="skillsAndTools">
-  <table>
-	<tr> 
-		<th>Programming Languages</th>
-	  	<th>Markup Languages</th>
-		<th>IDE & Version Control</th>
-		<th>Operating Systems</th>
-		<th>Web Browsers</th>
-	</tr>
-	<tr>
-	  	<td align="center">
-			<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-			<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	  	</td>
-	  	<td align="center">
-			<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-			<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-	  	</td>
-		<td align="center">
-			<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>
-			<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-	  	</td>
-		<td align="center">
-			<img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-			<img alt="Debian 12" src="https://img.shields.io/badge/Debian_12-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
-	  	</td>
-		<td align="center">
-			<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
-			<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-Edge&logoColor=white"/>
-	  	</td>
-	</tr>
-  </table>
-</div>
-
 ## Personal Projects 
 
 <div class="personalProjects">
