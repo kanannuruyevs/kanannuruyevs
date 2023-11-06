@@ -26,17 +26,12 @@ Also, I have an interest in exploring various types of software and contribute b
 <div class="githubStatistics">
   <table>
     <tr>
-	  <td>
+	  	<td>
         <a href="https://github.com/kanansnote">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanansnote&theme=dark&line_height=20" alt="Current Streak" width="469" height="195"/>
         </a>
-	  </td>
-	</tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github" alt="Stats" width="469" height="195">
-      </td>
-    </tr>
+	  	</td>
+		</tr>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" width="469" height="195">
