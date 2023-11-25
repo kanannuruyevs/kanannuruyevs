@@ -1,12 +1,12 @@
-<div align="center" class="githubStatistics">
+<div align="center" class="introText">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000
-			&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true
-			&lines=Hi+there!+I'm+Kanan." alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan." alt="Typing SVG" />
 	</a><hr>
-  <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github&font=bungee" alt="Stats" height="195">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
-	<br><br><hr>
+	<div align="center" class="githubStats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github&font=bungee" alt="Stats" height="195">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
+		<hr>
+	</div>
 	<div class="techStack">
 		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
@@ -19,5 +19,7 @@
 		<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/>
 	</div><hr>
-	<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=kanansnote&icon=1&color=1"/></a>
+	<div class="profileViews">
+		<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=kanansnote&icon=1&color=1"/></a>
+	</div>
 </div>
