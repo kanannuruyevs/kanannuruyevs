@@ -18,8 +18,5 @@
 		<img alt="Debian 12" src="https://img.shields.io/badge/Debian_12-D70A53?style=flat&logo=debian&logoColor=white"/>
 		<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/>
-	</div><hr>
-	<div class="profileViews">
-		<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=kanansnote&icon=1&color=1"/></a>
 	</div>
 </div>
