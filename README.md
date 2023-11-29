@@ -1,4 +1,4 @@
-<div align="center" class="readmePage">
+<div align="center" class="readmePage"><hr>
 	<div class="introText">
 		<h3>Introduction</h3><br>
 		<a href="https://git.io/typing-svg">
@@ -6,13 +6,13 @@
 		</a><hr>
 	</div>
 	<div align="center" class="githubStats">
-		<h3>GitHub Stats</h3>
+		<h3>GitHub Stats</h3><br>
     <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github&font=bungee" alt="Stats" height="195">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
 		<hr>
 	</div>
 	<div class="techStack">
-		<h3>Tech Stack</h3>
+		<h3>Tech Stack</h3><br>
 		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/>
 	</div><hr>
 	<div class="contactDetails">
-		<h3>Contact Details</h3>
+		<h3>Contact Details</h3><br>
 		<a href="mailto:kanansnote@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
              alt="Gmail"></a>
