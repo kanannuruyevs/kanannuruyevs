@@ -1,13 +1,17 @@
-<div align="center" class="introText">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan." alt="Typing SVG" />
-	</a><hr>
+<div align="center" class="readmePage">
+	<div class="introText">
+		<a href="https://git.io/typing-svg">
+			<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan." alt="Typing SVG" />
+		</a><hr>
+	</div>
 	<div align="center" class="githubStats">
+		<h2>GitHub Stats</h2><br>
     <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github&font=bungee" alt="Stats" height="195">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
 		<hr>
 	</div>
 	<div class="techStack">
+		<h2>Tech Stack</h2><br>
 		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
@@ -18,5 +22,20 @@
 		<img alt="Debian 12" src="https://img.shields.io/badge/Debian_12-D70A53?style=flat&logo=debian&logoColor=white"/>
 		<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/>
-	</div>
+	</div><hr>
+	<div class="contactDetails">
+		<h2>Contact Details</h2><br>
+		<a href="mailto:kanansnote@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
+             alt="Gmail"></a>
+		<a href="https://discord.com/users/kanansnote">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"
+             alt="Discord"></a>
+    <a href="https://t.me/kanansnote">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"
+             alt="Telegram"></a>
+    <a href="https://github.com/kanansnote">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"
+             alt="GitHub"></a>
+	</div><hr>
 </div>
