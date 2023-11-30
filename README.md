@@ -35,8 +35,5 @@
     <a href="https://t.me/kanansnote">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"
              alt="Telegram"></a>
-    <a href="https://github.com/kanansnote">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"
-             alt="GitHub"></a>
 	</div><hr>
 </div>
