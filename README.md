@@ -20,7 +20,7 @@
 		<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green.svg?&style=flat&logo=PyCharm&logoColor=black"/>
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 		<img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white"/>
-		<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
+		<img alt="Firefox" src="https://img.shields.io/badge/Firefox_Dev-017AD5?style=flat&logo=Firefox-Browser&logoColor=white"/>
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/>
 	</div><hr>
 	<div class="contactDetails">
