@@ -13,13 +13,11 @@
 	</div>
 	<div class="techStack">
 		<h3>Tech Stack</h3><br>
-		<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/>
 		<img alt="SCSS" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=SASS&logoColor=white"/>
 		<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-		<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-green.svg?&style=flat&logo=PyCharm&logoColor=black"/>
 		<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 		<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white">
