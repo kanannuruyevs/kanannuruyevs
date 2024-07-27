@@ -2,12 +2,14 @@
 	<div class="introText">
 		<a href="https://git.io/typing-svg">
 			<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan." alt="Typing SVG" />
-		</a><hr>
+		</a>
 	</div>
 	<div align="center" class="githubStats"><br>
-    <img src="https://github-readme-stats.vercel.app/api/?username=kanansnote&show_icons=true&theme=dark&rank_icon=github&font=bungee" alt="Stats" height="195">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanansnote&theme=dark&layout=compact" alt="Top Langs" height="195">
-		<hr>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanansnote&theme=gruvbox" alt="Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanansnote&theme=gruvbox" ><br>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanansnote&theme=gruvbox" height="195"><br><br>
+	<img src="https://visitcount.itsvg.in/api?id=kanansnote&label=Profile%20Views&color=2&icon=8&pretty=false"><br><br>
+	<hr>
 	</div>
 	<div class="techStack"><br>
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
