@@ -30,22 +30,16 @@
 		<h2>Social Accounts</h2>
 		<br>
 		<a href="mailto:kanansnote@gmail.com">
-        	<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-		</a>
+        	<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 		<a href="https://discord.com/users/kanansnote">
-        	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord">
-		</a>
+        	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
     	<a href="https://t.me/kanansnote">
-        	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-		</a>
+        	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
     	<a href="https://codepen.io/kanansnote">
-        	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen">
-		</a>
+        	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
     	<a href="https://codepen.io/kanansnote">
-        	<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Gitlab">
-		</a>
+        	<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Gitlab"></a>
     	<a href="https://kanansnote.github.io/">
-        	<img src="https://img.shields.io/badge/Website-97781a" alt="Website">
-		</a>
+        	<img src="https://img.shields.io/badge/Website-97781a" alt="Website"></a>
 	</div><br><hr>
 </div>
