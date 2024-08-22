@@ -23,7 +23,6 @@
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
 		<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white">
 		<img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=flat&logo=windows&logoColor=white"/>
-		<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
 		<img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=flat&logo=Microsoft-Edge&logoColor=white"/><br><br>
 	</div>
 	<div class="contactDetails">
