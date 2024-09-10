@@ -34,6 +34,8 @@
         	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
     	<a href="https://t.me/kanansnote">
         	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+    	<a href="https://www.instagram.com/kanansnote">
+        	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
     	<a href="https://codepen.io/kanansnote">
         	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
     	<a href="https://codepen.io/kanansnote">
