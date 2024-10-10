@@ -41,7 +41,7 @@
         	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Codepen"></a>
     	<a href="https://codepen.io/kanansnote">
         	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
-    	<a href="https://codepen.io/kanansnote">
+    	<a href="https://gitlab.com/kanansnote">
         	<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Gitlab"></a>
     	<a href="https://kanansnote.vercel.app/">
         	<img src="https://img.shields.io/badge/Website-97781a" alt="Website"></a>
