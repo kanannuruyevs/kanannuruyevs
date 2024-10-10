@@ -6,9 +6,10 @@
 	</div>
 	<div align="center" class="githubStats">
 		<h2>Stats</h2>
-    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanansnote&theme=gruvbox" alt="Stats">
-    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanansnote&theme=gruvbox" ><br>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanansnote&theme=gruvbox" height="195"><br><br>
+    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanansnote&theme=maroongold" alt="Stats">
+    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanansnote&theme=maroongold">
+		<br>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanansnote&theme=maroongold" height="195"><br><br>
 		<img src="https://visitcount.itsvg.in/api?id=kanansnote&label=Profile%20Views&color=2&icon=8&pretty=false"><br><br>
 		<hr>
 	</div>
