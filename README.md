@@ -1,16 +1,16 @@
 <div align="center" class="readmePage">
 	<div class="introText">
 		<a href="https://git.io/typing-svg">
-			<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan." alt="Typing SVG" />
+			<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=500&color=FFFFFF&random=false&width=435&height=50&center=true&vCenter=true&lines=Hi+there!+I'm+Kanan.;I'm+Front-End+Developer." alt="Typing SVG" />
 		</a>
 	</div>
-	<div align="center" class="githubStats"><br>
-	<h2>Stats</h2>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanansnote&theme=gruvbox" alt="Stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanansnote&theme=gruvbox" ><br>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanansnote&theme=gruvbox" height="195"><br><br>
-	<img src="https://visitcount.itsvg.in/api?id=kanansnote&label=Profile%20Views&color=2&icon=8&pretty=false"><br><br>
-	<hr>
+	<div align="center" class="githubStats">
+		<h2>Stats</h2>
+    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanansnote&theme=gruvbox" alt="Stats">
+    	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanansnote&theme=gruvbox" ><br>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanansnote&theme=gruvbox" height="195"><br><br>
+		<img src="https://visitcount.itsvg.in/api?id=kanansnote&label=Profile%20Views&color=2&icon=8&pretty=false"><br><br>
+		<hr>
 	</div>
 	<div class="techStack"><br>
 		<h2>Tech Stack</h2>
@@ -35,12 +35,16 @@
     	<a href="https://t.me/kanansnote">
         	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
     	<a href="https://www.instagram.com/kanansnote">
-        	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
+        	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>	
+    	<a href="https://www.linkedin.com/in/kanannuruyev">
+        	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Codepen"></a>
     	<a href="https://codepen.io/kanansnote">
         	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Codepen"></a>
     	<a href="https://codepen.io/kanansnote">
         	<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Gitlab"></a>
-    	<a href="https://kanansnote.github.io/">
+    	<a href="https://kanansnote.vercel.app/">
         	<img src="https://img.shields.io/badge/Website-97781a" alt="Website"></a>
-	</div><br><hr>
+	</div>
+	<br>
+	<hr>
 </div>
